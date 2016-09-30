@@ -1,0 +1,23 @@
+body{
+	font-family: "Allura", "Bilbo", fantasy;
+	color: #00000;
+	background-color: #99ccff
+
+}
+
+
+h1 {
+	text-align: center; #33D4FF
+}
+
+
+	.column-left{
+			float: left: width: 33%;
+}
+
+	.column-right{
+			float: right; width: 33%;
+}
+
+	.column-center{
+			display: inline-block; width: 33%;
